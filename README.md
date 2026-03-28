@@ -1,85 +1,93 @@
-# 🚀 Grohubz — Instagram DM Automation Platform
+# 🚀 Grohubz — Instagram DM Automation Tool
 
-**Grohubz** is an Instagram DM automation platform built to help businesses, creators, and marketers streamline conversations, capture leads, and scale engagement through intelligent automation workflows.
+Grohubz is a simple Instagram DM automation tool built to help creators and businesses automate conversations, reply faster, and manage engagement more efficiently.
 
-> ⚠️ **Note:** This repository contains product documentation only. The source code is private.
+> ⚠️ This repository contains only product documentation. Source code is private.
 
 ---
 
 ## 🌐 Live Product
+
 👉 https://grohubz.com
 
 ---
 
-## 📌 Product Overview
-Grohubz enables Instagram-first businesses to automate customer interactions while maintaining a personalized conversational experience.
+## 📌 Overview
 
-The platform is designed to:
-- Reduce manual messaging workload
-- Improve response speed
-- Capture leads directly inside Instagram conversations
-- Increase engagement and conversions
-- Automate repetitive customer interactions
+Grohubz focuses on automating Instagram interactions without overcomplicating workflows.
+
+It helps you:
+
+- Automate replies in DMs  
+- Respond to reel comments automatically  
+- Improve engagement  
+- Save time on repetitive conversations  
 
 ---
 
-## ✨ Core Features
+## ✨ Features
 
 ### 🔹 DM Automation
-Automated replies based on triggers, user actions, and conversational flows.
+Automatically reply to Instagram messages  
 
-### 🔹 Keyword Triggers
-Initiate workflows when users send specific keywords in Instagram DMs.
+### 🔹 Reel Comment Auto Reply
+Send DMs when someone comments on your reels  
 
-### 🔹 Lead Capture
-Collect user details seamlessly through conversational automation.
+### 🔹 Ask to Follow Feature
+Prompt users to follow before accessing content  
 
-### 🔹 Comment-to-DM Automation
-Automatically send DMs when users comment on posts or reels.
-
-### 🔹 Workflow Builder
-Create automation sequences using a structured trigger-action logic.
-
-### 🔹 Engagement Optimization
-Improve response time and user interaction with automated messaging.
+### 🔹 Analytics Dashboard
+Track basic engagement and performance  
 
 ---
 
 ## 🧠 Use Cases
-- Creator funnel automation
-- Customer support automation
-- Lead generation campaigns
-- Product inquiries automation
-- Event registrations via Instagram
-- Digital product delivery via DM
+
+- Creator engagement automation  
+- Basic customer interaction handling  
+- Instagram growth workflows  
+- Campaign-based responses  
 
 ---
 
 ## 🏗️ Tech Stack
-- Frontend: React, Tailwind CSS
-- Backend: Node.js, Express.js
-- 
+
+- **Frontend:** Next.js, TypeScript, Tailwind CSS  
+- **Backend:** Node.js  
+- **Database:** NeonDB, MongoDB (for blog content)  
+- **Auth & Services:** Firebase  
+- **Media Storage:** Cloudinary
+- **ORM:** Prisma
+- **Payments:** Razorpay  
+
 ---
 
-## 🔐 Repository Notice
-This repository is intentionally maintained without source code.  
-It serves as a **product showcase and documentation** for demonstration, recruiter evaluation, and portfolio purposes.
+## 🔮 Upcoming Features
+
+- AI integrations  
+- Attachments support in DMs  
+- Workflow Builder  
+- Lead Capture  
 
 ---
 
-## 📈 Product Vision
-Grohubz aims to become a scalable automation infrastructure for Instagram-centric businesses by simplifying conversational workflows and enabling efficient customer engagement.
+## 🔐 Repository Note
+
+This repository is maintained for portfolio and demonstration purposes only.  
+The actual product codebase is private.
 
 ---
 
 ## 👨‍💻 Developer
-**Dinesh Pawar**  
-Full Stack Web Developer
 
-- Portfolio: https://dinesh-pawar.netlify.app
-- GitHub: https://github.com/DineshPawar7
+**Dinesh Pawar**  
+Full Stack Developer  
+
+- 🌐 Portfolio: https://dinesh-pawar.netlify.app  
+- 💻 GitHub: https://github.com/DineshPawar7  
 
 ---
 
 ## ⭐ Support
-If you find Grohubz valuable, consider giving this repository a star to support the project.
+
+If you like the project, consider giving it a ⭐
