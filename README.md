@@ -36,6 +36,9 @@ Send DMs when someone comments on your reels
 ### 🔹 Ask to Follow Feature
 Prompt users to follow before accessing content  
 
+### 🔹 Lead Collect
+Collect Emails and Mobiles Number From Instagram Chats  
+
 ### 🔹 Analytics Dashboard
 Track basic engagement and performance  
 
